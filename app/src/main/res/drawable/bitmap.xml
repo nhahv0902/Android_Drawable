@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+
+    android:alpha="0.5"
+    android:antialias="true"
+    android:src="@drawable/bg">
+    <!--
+       alpha lam mo
+       antialias khu rang cua
+       gravity
+
+       titleMode : clamp
+       -->
+</bitmap>
